@@ -1,5 +1,8 @@
 Design and Implement of an Application For TV Management System With Use Of Java GUI 
 --------------------------------------------------------------------------------------
+
+Duration : 21 Jul, 2022 - 21 Sep, 2022
+
 Key Skills -- Java , AWT , Java Swing , Design Pattern
 
 A subscriber registers for the first time by providing his personal information
